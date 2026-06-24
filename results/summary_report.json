@@ -1,0 +1,64 @@
+{
+  "model_accuracy": {
+    "standard_model": 100.0,
+    "adversarial_model": 100.0
+  },
+  "evasion_comparison": [
+    {
+      "epsilon": 0.01,
+      "standard_fgsm_evasion_pct": 0.0,
+      "standard_pgd_evasion_pct": 0.0,
+      "adversarial_fgsm_evasion_pct": 0.0,
+      "adversarial_pgd_evasion_pct": 0.0,
+      "defence_gain_fgsm_pct": 0.0
+    },
+    {
+      "epsilon": 0.05,
+      "standard_fgsm_evasion_pct": 0.0,
+      "standard_pgd_evasion_pct": 0.0,
+      "adversarial_fgsm_evasion_pct": 0.0,
+      "adversarial_pgd_evasion_pct": 0.0,
+      "defence_gain_fgsm_pct": 0.0
+    },
+    {
+      "epsilon": 0.1,
+      "standard_fgsm_evasion_pct": 0.0,
+      "standard_pgd_evasion_pct": 0.0,
+      "adversarial_fgsm_evasion_pct": 0.0,
+      "adversarial_pgd_evasion_pct": 0.0,
+      "defence_gain_fgsm_pct": 0.0
+    },
+    {
+      "epsilon": 0.15,
+      "standard_fgsm_evasion_pct": 0.0,
+      "standard_pgd_evasion_pct": 0.0,
+      "adversarial_fgsm_evasion_pct": 0.0,
+      "adversarial_pgd_evasion_pct": 0.0,
+      "defence_gain_fgsm_pct": 0.0
+    },
+    {
+      "epsilon": 0.2,
+      "standard_fgsm_evasion_pct": 0.0,
+      "standard_pgd_evasion_pct": 0.0,
+      "adversarial_fgsm_evasion_pct": 0.0,
+      "adversarial_pgd_evasion_pct": 0.0,
+      "defence_gain_fgsm_pct": 0.0
+    },
+    {
+      "epsilon": 0.3,
+      "standard_fgsm_evasion_pct": 0.0,
+      "standard_pgd_evasion_pct": 0.0,
+      "adversarial_fgsm_evasion_pct": 0.0,
+      "adversarial_pgd_evasion_pct": 0.0,
+      "defence_gain_fgsm_pct": 0.0
+    },
+    {
+      "epsilon": 0.5,
+      "standard_fgsm_evasion_pct": 0.0,
+      "standard_pgd_evasion_pct": 0.0,
+      "adversarial_fgsm_evasion_pct": 0.0,
+      "adversarial_pgd_evasion_pct": 0.0,
+      "defence_gain_fgsm_pct": 0.0
+    }
+  ]
+}

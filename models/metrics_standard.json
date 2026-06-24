@@ -1,0 +1,6 @@
+{
+  "accuracy": 1.0,
+  "type": "standard",
+  "input_dim": 38,
+  "epochs": 25
+}

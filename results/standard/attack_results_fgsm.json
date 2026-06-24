@@ -1,0 +1,86 @@
+[
+  {
+    "epsilon": 0.01,
+    "n_original": 1000,
+    "n_evaded": 0,
+    "evasion_rate": 0.0,
+    "avg_perturbation_l2": 0.1746,
+    "avg_perturbation_linf": 0.1419,
+    "confidence_drop": 0.0,
+    "iterations": 1,
+    "attack_type": "FGSM",
+    "notes": ""
+  },
+  {
+    "epsilon": 0.05,
+    "n_original": 1000,
+    "n_evaded": 0,
+    "evasion_rate": 0.0,
+    "avg_perturbation_l2": 0.3418,
+    "avg_perturbation_linf": 0.1772,
+    "confidence_drop": 0.0,
+    "iterations": 1,
+    "attack_type": "FGSM",
+    "notes": ""
+  },
+  {
+    "epsilon": 0.1,
+    "n_original": 1000,
+    "n_evaded": 0,
+    "evasion_rate": 0.0,
+    "avg_perturbation_l2": 0.5549,
+    "avg_perturbation_linf": 0.2214,
+    "confidence_drop": 0.0,
+    "iterations": 1,
+    "attack_type": "FGSM",
+    "notes": ""
+  },
+  {
+    "epsilon": 0.15,
+    "n_original": 1000,
+    "n_evaded": 0,
+    "evasion_rate": 0.0,
+    "avg_perturbation_l2": 0.7718,
+    "avg_perturbation_linf": 0.2657,
+    "confidence_drop": 0.0001,
+    "iterations": 1,
+    "attack_type": "FGSM",
+    "notes": ""
+  },
+  {
+    "epsilon": 0.2,
+    "n_original": 1000,
+    "n_evaded": 0,
+    "evasion_rate": 0.0,
+    "avg_perturbation_l2": 0.9914,
+    "avg_perturbation_linf": 0.31,
+    "confidence_drop": 0.0001,
+    "iterations": 1,
+    "attack_type": "FGSM",
+    "notes": ""
+  },
+  {
+    "epsilon": 0.3,
+    "n_original": 1000,
+    "n_evaded": 0,
+    "evasion_rate": 0.0,
+    "avg_perturbation_l2": 1.436,
+    "avg_perturbation_linf": 0.3986,
+    "confidence_drop": 0.0004,
+    "iterations": 1,
+    "attack_type": "FGSM",
+    "notes": ""
+  },
+  {
+    "epsilon": 0.5,
+    "n_original": 1000,
+    "n_evaded": 0,
+    "evasion_rate": 0.0,
+    "avg_perturbation_l2": 2.3344,
+    "avg_perturbation_linf": 0.5762,
+    "confidence_drop": 0.0028,
+    "iterations": 1,
+    "attack_type": "FGSM",
+    "notes": ""
+  }
+]
